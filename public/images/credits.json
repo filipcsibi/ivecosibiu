@@ -1,0 +1,38 @@
+{
+  "daily": {
+    "file": "2014 Iveco Daily 35 S13 MWB 2.3.jpg",
+    "author": "Vauxford",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:2014_Iveco_Daily_35_S13_MWB_2.3.jpg"
+  },
+  "eurocargo": {
+    "file": "Iveco Eurocargo 280 ML180E28 P CNG IAA Transportation 2024 (DSC03303).jpg",
+    "author": "MarcelX42",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Iveco_Eurocargo_280_ML180E28_P_CNG_IAA_Transportation_2024_(DSC03303).jpg"
+  },
+  "s-way": {
+    "file": "Iveco S-Way (IMG 20220721 161155).jpg",
+    "author": "Matti Blume",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Iveco_S-Way_(IMG_20220721_161155).jpg"
+  },
+  "x-way": {
+    "file": "Iveco X-Way 460 CNG 4x2 IAA 2022 (DSC04269).jpg",
+    "author": "MarcelX42",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Iveco_X-Way_460_CNG_4x2_IAA_2022_(DSC04269).jpg"
+  },
+  "t-way": {
+    "file": "Iveco T-Way 450 8x8 IAA 2022 (DSC04167).jpg",
+    "author": "MarcelX42",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Iveco_T-Way_450_8x8_IAA_2022_(DSC04167).jpg"
+  },
+  "hero": {
+    "file": "Iveco Stralis X-Way AS440X46TP NP - Front and right side IAA 2018.jpg",
+    "author": "MarcelX42",
+    "license": "CC BY-SA 4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Iveco_Stralis_X-Way_AS440X46TP_NP_-_Front_and_right_side_IAA_2018.jpg"
+  }
+}
